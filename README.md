@@ -7,3 +7,7 @@ Software engineer proficient in Python and Typescript / Javascript, currently mo
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aleksa-tešić-793629182)
 
 
+## Stuff I made
+
+[Notify Me](https://notify-me.rs/)
+[Random Github](https://randomgithub.com/)
