@@ -9,5 +9,6 @@ Software engineer proficient in Python and Typescript / Javascript, currently mo
 
 ## Stuff I made
 
-[Notify Me](https://notify-me.rs/)
+[Notify Me](https://notify-me.rs/)  
+
 [Random Github](https://randomgithub.com/)
