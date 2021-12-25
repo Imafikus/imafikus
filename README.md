@@ -1,6 +1,7 @@
 # Aleksa Tešić
 
-Software engineer proficient in Python and Typescript / Javascript, currently mostly interested in DevOps.
+ Software engineer experienced in building and maintaining everything from CI/CD pipelines and deployments to application frontends.  
+ Always programming something.
 
 ![Imafikus's github stats](https://github-readme-stats.vercel.app/api?username=imafikus&show_icons=true&theme=tokyonight&count_private=true)
 
