@@ -1,7 +1,9 @@
 # Aleksa Tešić
 
- Software engineer experienced in building and maintaining everything from CI/CD pipelines and deployments to application frontends.  
- Always programming something.
+Software engineer experienced in building and maintaining
+everything from CI/CD pipelines and deployments to application frontends.
+Always programming something. Currently mostly interested in software architecture and design.
+Record collector and Warhammer enthusiast. Big fan of stoner rock and a guitar player.
 
 ![Imafikus's github stats](https://github-readme-stats.vercel.app/api?username=imafikus&show_icons=true&theme=tokyonight&count_private=true)
 
